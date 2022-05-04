@@ -7,6 +7,7 @@ class Tablero {
     var matriz = new Array();
     for (let x = 0; x < fila; x++) 
     {
+        matriz[x] = new Array();
         
     }
   }
